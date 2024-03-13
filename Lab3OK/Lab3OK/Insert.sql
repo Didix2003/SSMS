@@ -1,0 +1,16 @@
+USE GestionaCheltuieli;
+insert into Utilizator values('Andrei', 'andrei12');
+insert into Cheltuiala values(5,500, '2022-11-01');
+insert into Categorie values('mancare');
+insert into Buget values(5,'noiembrie',2022);
+insert into Organizare values(7,3,'lunara') ;
+insert into Cheltuiala values(4,800, '2022-11-01');
+insert into buget values(4,'noiembrie',2018);
+insert into buget values(4,'noiembrie',2022);
+insert into Utilizator values('Paula', 'paula12');
+insert into Locatie values('After','langa Sora','Cluj','Romania');
+insert into Detalii_CheltuialaLocatie values(7,1,500);
+insert into Categorie values('haine');
+insert into Organizare values(7,4,'lunara') ;
+insert into Organizare values(9,4,'lunara') ;
+insert into Utilizator values('Andrei', 'parolamea');

@@ -1,0 +1,17 @@
+C:\Users\DIANA\source\repos\Interferente eco\Interferente eco\bin\Release\Ecologie.mdf
+C:\Users\DIANA\source\repos\Interferente eco\Interferente eco\bin\Release\Ecologie_log.ldf
+C:\Users\DIANA\source\repos\Interferente eco\Interferente eco\bin\Release\Interferente eco.exe.config
+C:\Users\DIANA\source\repos\Interferente eco\Interferente eco\bin\Release\Interferente eco.exe
+C:\Users\DIANA\source\repos\Interferente eco\Interferente eco\bin\Release\Interferente eco.pdb
+C:\Users\DIANA\source\repos\Interferente eco\Interferente eco\obj\Release\Interferente_eco.Autentificare.resources
+C:\Users\DIANA\source\repos\Interferente eco\Interferente eco\obj\Release\Interferente_eco.Chestionar.resources
+C:\Users\DIANA\source\repos\Interferente eco\Interferente eco\obj\Release\Interferente_eco.Form1.resources
+C:\Users\DIANA\source\repos\Interferente eco\Interferente eco\obj\Release\Interferente_eco.Galerie.resources
+C:\Users\DIANA\source\repos\Interferente eco\Interferente eco\obj\Release\Interferente_eco.Inregistrare.resources
+C:\Users\DIANA\source\repos\Interferente eco\Interferente eco\obj\Release\Interferente_eco.Petitie.resources
+C:\Users\DIANA\source\repos\Interferente eco\Interferente eco\obj\Release\Interferente_eco.Petitie2.resources
+C:\Users\DIANA\source\repos\Interferente eco\Interferente eco\obj\Release\Interferente_eco.Properties.Resources.resources
+C:\Users\DIANA\source\repos\Interferente eco\Interferente eco\obj\Release\Interferente eco.csproj.GenerateResource.cache
+C:\Users\DIANA\source\repos\Interferente eco\Interferente eco\obj\Release\Interferente eco.csproj.CoreCompileInputs.cache
+C:\Users\DIANA\source\repos\Interferente eco\Interferente eco\obj\Release\Interferente eco.exe
+C:\Users\DIANA\source\repos\Interferente eco\Interferente eco\obj\Release\Interferente eco.pdb

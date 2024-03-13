@@ -1,0 +1,5 @@
+1;Stii ce inseamna reciclare selectiva?
+2;Aveti suficiente informatii pentru a fi consumatori responsabili ai resurselor naturale?
+3;Crezi ca poluarea apelor are loc din cauza proastei gestionari a autoritatiilor?
+4; Crezi ca poluarea apelor are loc din cauza populatiei riverane a acestora?
+5; Crezi ca traiesti intr-un oras poluat?
